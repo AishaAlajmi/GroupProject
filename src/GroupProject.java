@@ -12,7 +12,7 @@ class CPIT251 {
     }
 
     public static void DisplayAllStudentReports() {
-
+        System.out.println("aisha");
     }
 
     public static void DeleteReport() {
